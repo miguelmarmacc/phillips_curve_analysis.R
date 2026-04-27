@@ -15,8 +15,11 @@ Using publicly available data from the Federal Reserve (FRED), this analysis tra
 - **Great Moderation (1984–2007):** The curve flattens significantly. As the Fed anchored inflation expectations, unemployment lost much of its predictive power over inflation — a finding consistent with the broader literature on Phillips Curve flattening post-1984.
 - **Modern Era (2008–):** The aggregate slope appears steep and negative, but a sub-period breakdown reveals this is driven by two supply-side shocks — the post-GFC period (high unemployment, near-zero inflation) and the COVID recovery (low unemployment, high inflation) — rather than a stable structural tradeoff.
 
-### Charts
-
+## Charts
+plot_a_fullsample.png
+plot_b_eras.png
+plot_c_timeseries.png
+plot_d_modern_era.png
 
 ## Data Sources
 
