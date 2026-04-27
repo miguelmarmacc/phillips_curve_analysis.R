@@ -17,13 +17,6 @@ Using publicly available data from the Federal Reserve (FRED), this analysis tra
 
 ### Charts
 
-![Full-Sample Phillips Curve](plot_a_fullsample.png)
-
-![Phillips Curve Across Eras](plot_b_eras.png)
-
-![Time Series](plot_c_timeseries.png)
-
-![Modern Era Sub-Period Breakdown](plot_d_modern_era.png)
 
 ## Data Sources
 
