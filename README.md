@@ -16,10 +16,13 @@ Using publicly available data from the Federal Reserve (FRED), this analysis tra
 - **Modern Era (2008–):** The aggregate slope appears steep and negative, but a sub-period breakdown reveals this is driven by two supply-side shocks: the post-GFC period (high unemployment, near-zero inflation) and the COVID recovery (low unemployment, high inflation), rather than a stable structural tradeoff.
 
 ## Charts
-plot_a_fullsample.png
-plot_b_eras.png
-plot_c_timeseries.png
-plot_d_modern_era.png
+![Full-Sample Phillips Curve](plot_a_fullsample.png)
+
+![Phillips Curve Across Eras](plot_b_eras.png)
+
+![Time Series](plot_c_timeseries.png)
+
+![Modern Era Sub-Period Breakdown](plot_d_modern_era.png)
 
 ## Data Sources
 
