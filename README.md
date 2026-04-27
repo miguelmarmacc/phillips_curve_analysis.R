@@ -1,4 +1,4 @@
-# phillips_curve_analysis.R
+# Phillips_Curve_Analysis.R
 Personal project analyzing how the U.S. inflation-unemployment tradeoff has evolved across 75 years of macroeconomic history, using R and publicly available Federal Reserve data (FRED).
 # The Phillips Curve: Inflation & Unemployment Across U.S. History
 
